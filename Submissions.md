@@ -5,10 +5,12 @@
 Your GitHub repository with the readme.md file selected showing the code that you
 changed to update the badge.
 
-![Ans 3](https://user-images.githubusercontent.com/113263983/221074543-8824ec30-a609-47ab-b3c5-a2e9fc03063d.png)
+![Ans 3 updated](https://user-images.githubusercontent.com/113263983/221075991-d8554076-cc35-4a48-a6ab-01597bc20e8b.png)
 
-Your GitHub repository with the readme.md file selected showing the build success
-status after you’ve updated the badge markdown.
+
+Your GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown.
+
+![Ans 3](https://user-images.githubusercontent.com/113263983/221076091-f01a69e3-d01d-4884-8d58-12642c4112d4.png)
 
 ![Ans 4](https://user-images.githubusercontent.com/113263983/221074595-e6f00e02-a993-458a-9e67-ede8672c02e4.png)
 
